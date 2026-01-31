@@ -1,7 +1,10 @@
 ## Packages and Versions Used
 
-| Package     | Version  |
-|------------|----------|
-| numpy      | 1.26.4   |
-| matplotlib | 3.7.2    |
-| scipy      | 1.16.1   |
+| Package       | Version  |
+|---------------|----------|
+| numpy         | 1.26.5   |
+| matplotlib    | 3.7.2    |
+| scipy         | 1.16.1   |
+| datasets      | 2.12.0   |
+| transformers  | 4.32.1   |
+| torch         |          |
